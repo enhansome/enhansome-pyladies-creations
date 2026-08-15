@@ -84,9 +84,9 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 * [kedro](https://github.com/kedro-org/kedro) ⭐ 10,953 | 🐛 152 | 🌐 Python | 📅 2026-08-14 by Merel Theisen, Yetunde Dada
 * [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,268 | 🐛 123 | 🌐 Python | 📅 2026-08-13 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
-* [nox](https://github.com/wntrblm/nox) ⭐ 1,551 | 🐛 69 | 🌐 Python | 📅 2026-08-12 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
+* [nox](https://github.com/wntrblm/nox) ⭐ 1,552 | 🐛 68 | 🌐 Python | 📅 2026-08-12 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 864 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
-* [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 417 | 🐛 21 | 🌐 Python | 📅 2026-06-03 by Mariatta Wijaya, Brett Cannon
+* [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 418 | 🐛 21 | 🌐 Python | 📅 2026-06-03 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 177 | 🐛 25 | 🌐 Python | 📅 2026-01-12 by Vanessa Sochat
 * [pull-request-action](https://github.com/vsoch/pull-request-action) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2025-04-23 by Vanessa Sochat
 * [singularity-hpc](https://github.com/singularityhub/singularity-hpc) ⭐ 134 | 🐛 34 | 🌐 Python | 📅 2025-12-13 by Vanessa Sochat
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
