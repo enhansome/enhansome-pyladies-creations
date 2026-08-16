@@ -82,7 +82,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 10,953 | 🐛 152 | 🌐 Python | 📅 2026-08-14 by Merel Theisen, Yetunde Dada
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 10,955 | 🐛 151 | 🌐 Python | 📅 2026-08-14 by Merel Theisen, Yetunde Dada
 * [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,268 | 🐛 123 | 🌐 Python | 📅 2026-08-13 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,552 | 🐛 68 | 🌐 Python | 📅 2026-08-12 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 864 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

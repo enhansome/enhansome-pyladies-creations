@@ -34,7 +34,7 @@
             "last_commit": "2026-08-14T17:50:55Z",
             "owner": "kedro-org",
             "repo": "kedro",
-            "stars": 10953
+            "stars": 10955
           }
         },
         {
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:34:43.374Z",
+    "last_updated": "2026-08-16T20:34:07.953Z",
     "original_repository": "cosimameyer/awesome-pyladies-creations",
     "original_repository_sha": "db3cc1f78ced4d6f40d6f23d266a367a55a4190b",
     "enhanced_repository": "enhansome/enhansome-pyladies-creations",
