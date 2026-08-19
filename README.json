@@ -1,404 +1,420 @@
 {
   "items": [
     {
-      "description": "It provides a curated list of awesome content by PyLadies and collects information to further promote content by PyLadies on social media 🤖\nTo contribute, please see contributing ✨",
-      "items": [],
-      "title": "What Is This Repository About?"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "List of Contributors as Tiles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "List of Content"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Software"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "kedro",
-          "description": "by Merel Theisen, Yetunde Dada",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:03:46Z",
-            "owner": "kedro-org",
-            "repo": "kedro",
-            "stars": 10954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fairlearn",
-          "description": "by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T03:51:39Z",
-            "owner": "fairlearn",
-            "repo": "fairlearn",
-            "stars": 2268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nox",
-          "description": "by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T03:09:11Z",
-            "owner": "wntrblm",
-            "repo": "nox",
-            "stars": 1552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "watchme",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-08-05T23:11:32Z",
-            "owner": "vsoch",
-            "repo": "watchme",
-            "stars": 864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gidgethub",
-          "description": "by Mariatta Wijaya, Brett Cannon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-03T19:04:56Z",
-            "owner": "gidgethub",
-            "repo": "gidgethub",
-            "stars": 418
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deid",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-12T16:52:16Z",
-            "owner": "pydicom",
-            "repo": "deid",
-            "stars": 177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pull-request-action",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-23T22:09:37Z",
-            "owner": "vsoch",
-            "repo": "pull-request-action",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "singularity-hpc",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-13T00:37:11Z",
-            "owner": "singularityhub",
-            "repo": "singularity-hpc",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data Morph: Teaching the Importance of Data Visualization Through Dataset Transformation",
-          "description": "by Stefanie Molin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T18:34:50Z",
-            "owner": "stefmolin",
-            "repo": "data-morph",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ih",
-          "description": "by Katie McLaughlin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-03-14T10:37:16Z",
-            "owner": "glasnt",
-            "repo": "ih",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flask-talisman",
-          "description": "by Thea Flowers, jonakemon, Jannis Leidel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-17T09:20:40Z",
-            "owner": "wntrblm",
-            "repo": "flask-talisman",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "singularity-compose",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-11T19:06:56Z",
-            "owner": "singularityhub",
-            "repo": "singularity-compose",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pokemon",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-17T04:06:00Z",
-            "owner": "vsoch",
-            "repo": "pokemon",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "oras",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-08T15:46:07Z",
-            "owner": "oras-project",
-            "repo": "oras-py",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spython",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-12T19:55:24Z",
-            "owner": "singularityhub",
-            "repo": "singularity-cli",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emojificate",
-          "description": "by Katie McLaughlin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T00:29:00Z",
-            "owner": "glasnt",
-            "repo": "emojificate",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "expfactory",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-04-13T17:50:22Z",
-            "owner": "expfactory",
-            "repo": "expfactory",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exif-stripper",
-          "description": "by Stefanie Molin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T22:26:36Z",
-            "owner": "stefmolin",
-            "repo": "exif-stripper",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "axe-playwright-python",
-          "description": "by Pamela Fox",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-24T14:47:40Z",
-            "owner": "pamelafox",
-            "repo": "axe-playwright-python",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snakedeploy",
-          "description": "by Vanessa Sochat, johanneskoester",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-18T08:51:27Z",
-            "owner": "snakemake",
-            "repo": "snakedeploy",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "urlchecker",
-          "description": "by Vanessa Sochat, SuperKogito",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-10T10:42:02Z",
-            "owner": "urlstechie",
-            "repo": "urlchecker-python",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tributors",
-          "description": "by Vanessa Sochat, yarikoptic",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-19T18:13:13Z",
-            "owner": "con",
-            "repo": "tributors",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CiteLang",
-          "description": "by Vanessa Sochat",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-20T21:22:53Z",
-            "owner": "vsoch",
-            "repo": "citelang",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docstringify",
-          "description": "by Stefanie Molin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T22:26:25Z",
-            "owner": "stefmolin",
-            "repo": "docstringify",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "overviewpy",
-          "description": "by Cosima Meyer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-11T00:58:52Z",
-            "owner": "cosimameyer",
-            "repo": "overviewpy",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "roctet",
-          "description": "by Emily Riederer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-28T02:39:52Z",
-            "owner": "emilyriederer",
-            "repo": "roctet",
-            "stars": 1
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "kedro",
+                  "description": "by Merel Theisen, Yetunde Dada",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 182067506,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T12:41:11Z",
+                    "owner": "kedro-org",
+                    "repo": "kedro",
+                    "stars": 10955
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fairlearn",
+                  "description": "by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133444044,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T12:40:04Z",
+                    "owner": "fairlearn",
+                    "repo": "fairlearn",
+                    "stars": 2270
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nox",
+                  "description": "by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52413187,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T03:09:11Z",
+                    "owner": "wntrblm",
+                    "repo": "nox",
+                    "stars": 1552
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "watchme",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177837425,
+                    "language": "HTML",
+                    "last_commit": "2022-08-05T23:11:32Z",
+                    "owner": "vsoch",
+                    "repo": "watchme",
+                    "stars": 864
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gidgethub",
+                  "description": "by Mariatta Wijaya, Brett Cannon",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 79673050,
+                    "language": "Python",
+                    "last_commit": "2026-06-03T19:04:56Z",
+                    "owner": "gidgethub",
+                    "repo": "gidgethub",
+                    "stars": 419
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "deid",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94163984,
+                    "language": "Python",
+                    "last_commit": "2026-01-12T16:52:16Z",
+                    "owner": "pydicom",
+                    "repo": "deid",
+                    "stars": 177
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pull-request-action",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 168611951,
+                    "language": "Python",
+                    "last_commit": "2025-04-23T22:09:37Z",
+                    "owner": "vsoch",
+                    "repo": "pull-request-action",
+                    "stars": 173
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "singularity-hpc",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 354130612,
+                    "language": "Python",
+                    "last_commit": "2025-12-13T00:37:11Z",
+                    "owner": "singularityhub",
+                    "repo": "singularity-hpc",
+                    "stars": 134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Data Morph: Teaching the Importance of Data Visualization Through Dataset Transformation",
+                  "description": "by Stefanie Molin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 597895841,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T18:34:50Z",
+                    "owner": "stefmolin",
+                    "repo": "data-morph",
+                    "stars": 132
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ih",
+                  "description": "by Katie McLaughlin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174641582,
+                    "language": "Python",
+                    "last_commit": "2021-03-14T10:37:16Z",
+                    "owner": "glasnt",
+                    "repo": "ih",
+                    "stars": 113
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "flask-talisman",
+                  "description": "by Thea Flowers, jonakemon, Jannis Leidel",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 374362664,
+                    "language": "Python",
+                    "last_commit": "2024-04-17T09:20:40Z",
+                    "owner": "wntrblm",
+                    "repo": "flask-talisman",
+                    "stars": 87
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "singularity-compose",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 188852712,
+                    "language": "Python",
+                    "last_commit": "2024-05-11T19:06:56Z",
+                    "owner": "singularityhub",
+                    "repo": "singularity-compose",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pokemon",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 64061017,
+                    "language": "Python",
+                    "last_commit": "2023-01-17T04:06:00Z",
+                    "owner": "vsoch",
+                    "repo": "pokemon",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "oras",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 362552641,
+                    "language": "Python",
+                    "last_commit": "2026-08-08T15:46:07Z",
+                    "owner": "oras-project",
+                    "repo": "oras-py",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spython",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120543174,
+                    "language": "Python",
+                    "last_commit": "2026-03-12T19:55:24Z",
+                    "owner": "singularityhub",
+                    "repo": "singularity-cli",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "emojificate",
+                  "description": "by Katie McLaughlin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65078838,
+                    "language": "Python",
+                    "last_commit": "2026-08-02T00:29:00Z",
+                    "owner": "glasnt",
+                    "repo": "emojificate",
+                    "stars": 65
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "expfactory",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 108672186,
+                    "language": "Python",
+                    "last_commit": "2023-04-13T17:50:22Z",
+                    "owner": "expfactory",
+                    "repo": "expfactory",
+                    "stars": 39
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "exif-stripper",
+                  "description": "by Stefanie Molin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 743761205,
+                    "language": "Python",
+                    "last_commit": "2026-07-06T22:26:36Z",
+                    "owner": "stefmolin",
+                    "repo": "exif-stripper",
+                    "stars": 33
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "axe-playwright-python",
+                  "description": "by Pamela Fox",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622978853,
+                    "language": "Python",
+                    "last_commit": "2026-07-24T14:47:40Z",
+                    "owner": "pamelafox",
+                    "repo": "axe-playwright-python",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "snakedeploy",
+                  "description": "by Vanessa Sochat, johanneskoester",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 312048858,
+                    "language": "Python",
+                    "last_commit": "2026-06-18T08:51:27Z",
+                    "owner": "snakemake",
+                    "repo": "snakedeploy",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "urlchecker",
+                  "description": "by Vanessa Sochat, SuperKogito",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 248832251,
+                    "language": "Python",
+                    "last_commit": "2024-10-10T10:42:02Z",
+                    "owner": "urlstechie",
+                    "repo": "urlchecker-python",
+                    "stars": 21
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tributors",
+                  "description": "by Vanessa Sochat, yarikoptic",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275440041,
+                    "language": "Python",
+                    "last_commit": "2026-05-19T18:13:13Z",
+                    "owner": "con",
+                    "repo": "tributors",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CiteLang",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 469517560,
+                    "language": "Python",
+                    "last_commit": "2025-01-20T21:22:53Z",
+                    "owner": "vsoch",
+                    "repo": "citelang",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Docstringify",
+                  "description": "by Stefanie Molin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 957738808,
+                    "language": "Python",
+                    "last_commit": "2026-07-06T22:26:25Z",
+                    "owner": "stefmolin",
+                    "repo": "docstringify",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "overviewpy",
+                  "description": "by Cosima Meyer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 667978559,
+                    "language": "Python",
+                    "last_commit": "2026-07-11T00:58:52Z",
+                    "owner": "cosimameyer",
+                    "repo": "overviewpy",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "roctet",
+                  "description": "by Emily Riederer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1176360978,
+                    "language": "Python",
+                    "last_commit": "2026-03-28T02:39:52Z",
+                    "owner": "emilyriederer",
+                    "repo": "roctet",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python Libraries"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Software"
         }
       ],
-      "title": "Python Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "List of Content"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:35:17.711Z",
+    "last_updated": "2026-08-19T12:49:16.829Z",
     "original_repository": "cosimameyer/awesome-pyladies-creations",
+    "original_repository_id": 620504974,
     "original_repository_sha": "db3cc1f78ced4d6f40d6f23d266a367a55a4190b",
     "enhanced_repository": "enhansome/enhansome-pyladies-creations",
     "enhanced_repository_description": null,
