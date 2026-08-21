@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 182067506,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:49:31Z",
+                    "last_commit": "2026-08-21T12:43:29Z",
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10957
+                    "stars": 10959
                   }
                 },
                 {
@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 133444044,
                     "language": "Python",
-                    "last_commit": "2026-08-20T18:14:37Z",
+                    "last_commit": "2026-08-21T18:47:25Z",
                     "owner": "fairlearn",
                     "repo": "fairlearn",
                     "stars": 2271
@@ -211,7 +211,7 @@
                     "archived": false,
                     "id": 362552641,
                     "language": "Python",
-                    "last_commit": "2026-08-08T15:46:07Z",
+                    "last_commit": "2026-08-21T17:05:51Z",
                     "owner": "oras-project",
                     "repo": "oras-py",
                     "stars": 67
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:39:40.692Z",
+    "last_updated": "2026-08-21T20:35:48.472Z",
     "original_repository": "cosimameyer/awesome-pyladies-creations",
     "original_repository_id": 620504974,
     "original_repository_sha": "db3cc1f78ced4d6f40d6f23d266a367a55a4190b",

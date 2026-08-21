@@ -82,8 +82,8 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 10,957 | 🐛 144 | 🌐 Python | 📅 2026-08-20 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,271 | 🐛 125 | 🌐 Python | 📅 2026-08-20 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 10,959 | 🐛 145 | 🌐 Python | 📅 2026-08-21 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,271 | 🐛 121 | 🌐 Python | 📅 2026-08-21 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,552 | 🐛 69 | 🌐 Python | 📅 2026-08-18 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 864 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 419 | 🐛 21 | 🌐 Python | 📅 2026-06-03 by Mariatta Wijaya, Brett Cannon
@@ -95,7 +95,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [flask-talisman](https://github.com/wntrblm/flask-talisman) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2024-04-17 by Thea Flowers, jonakemon, Jannis Leidel
 * [singularity-compose](https://github.com/singularityhub/singularity-compose) ⭐ 79 | 🐛 11 | 🌐 Python | 📅 2024-05-11 by Vanessa Sochat
 * [pokemon](https://github.com/vsoch/pokemon) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
-* [oras](https://github.com/oras-project/oras-py) ⭐ 67 | 🐛 57 | 🌐 Python | 📅 2026-08-08 by Vanessa Sochat
+* [oras](https://github.com/oras-project/oras-py) ⭐ 67 | 🐛 56 | 🌐 Python | 📅 2026-08-21 by Vanessa Sochat
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-08-02 by Katie McLaughlin
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
