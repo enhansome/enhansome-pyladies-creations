@@ -82,13 +82,13 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 10,959 | 🐛 145 | 🌐 Python | 📅 2026-08-21 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,271 | 🐛 121 | 🌐 Python | 📅 2026-08-21 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 10,964 | 🐛 146 | 🌐 Python | 📅 2026-08-21 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,273 | 🐛 122 | 🌐 Python | 📅 2026-08-22 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,552 | 🐛 69 | 🌐 Python | 📅 2026-08-18 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 864 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 419 | 🐛 21 | 🌐 Python | 📅 2026-06-03 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 177 | 🐛 25 | 🌐 Python | 📅 2026-01-12 by Vanessa Sochat
-* [pull-request-action](https://github.com/vsoch/pull-request-action) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2025-04-23 by Vanessa Sochat
+* [pull-request-action](https://github.com/vsoch/pull-request-action) ⭐ 174 | 🐛 0 | 🌐 Python | 📅 2025-04-23 by Vanessa Sochat
 * [singularity-hpc](https://github.com/singularityhub/singularity-hpc) ⭐ 134 | 🐛 35 | 🌐 Python | 📅 2025-12-13 by Vanessa Sochat
 * [Data Morph: Teaching the Importance of Data Visualization Through Dataset Transformation](https://github.com/stefmolin/data-morph) ⭐ 132 | 🐛 12 | 🌐 Python | 📅 2026-08-18 by Stefanie Molin
 * [ih](https://github.com/glasnt/ih) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2021-03-14 by Katie McLaughlin
@@ -99,7 +99,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-08-02 by Katie McLaughlin
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
-* [exif-stripper](https://github.com/stefmolin/exif-stripper) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2026-07-06 by Stefanie Molin
+* [exif-stripper](https://github.com/stefmolin/exif-stripper) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-07-06 by Stefanie Molin
 * [axe-playwright-python](https://github.com/pamelafox/axe-playwright-python) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2026-07-24 by Pamela Fox
 * [snakedeploy](https://github.com/snakemake/snakedeploy) ⭐ 27 | 🐛 20 | 🌐 Python | 📅 2026-06-18 by Vanessa Sochat, johanneskoester
 * [urlchecker](https://github.com/urlstechie/urlchecker-python) ⭐ 21 | 🐛 17 | 🌐 Python | 📅 2024-10-10 by Vanessa Sochat, SuperKogito
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
