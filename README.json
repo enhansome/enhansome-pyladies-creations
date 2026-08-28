@@ -16,11 +16,12 @@
                     "archived": false,
                     "id": 182067506,
                     "language": "Python",
-                    "last_commit": "2026-08-27T02:29:39Z",
+                    "last_commit": "2026-08-27T13:05:56Z",
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10972
-                  }
+                    "stars": 10974
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2026-08-24T17:23:49Z",
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2277
-                  }
+                    "stars": 2278
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "wntrblm",
                     "repo": "nox",
                     "stars": 1552
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "vsoch",
                     "repo": "watchme",
                     "stars": 864
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "gidgethub",
                     "repo": "gidgethub",
                     "stars": 419
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "pydicom",
                     "repo": "deid",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -110,7 +116,8 @@
                     "owner": "vsoch",
                     "repo": "pull-request-action",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "singularityhub",
                     "repo": "singularity-hpc",
                     "stars": 134
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "stefmolin",
                     "repo": "data-morph",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +164,8 @@
                     "owner": "glasnt",
                     "repo": "ih",
                     "stars": 113
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +180,8 @@
                     "owner": "wntrblm",
                     "repo": "flask-talisman",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -185,7 +196,8 @@
                     "owner": "singularityhub",
                     "repo": "singularity-compose",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -200,7 +212,8 @@
                     "owner": "vsoch",
                     "repo": "pokemon",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -215,7 +228,8 @@
                     "owner": "oras-project",
                     "repo": "oras-py",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -230,7 +244,8 @@
                     "owner": "singularityhub",
                     "repo": "singularity-cli",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -245,7 +260,8 @@
                     "owner": "glasnt",
                     "repo": "emojificate",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -260,7 +276,8 @@
                     "owner": "expfactory",
                     "repo": "expfactory",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -275,7 +292,8 @@
                     "owner": "stefmolin",
                     "repo": "exif-stripper",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -290,7 +308,8 @@
                     "owner": "pamelafox",
                     "repo": "axe-playwright-python",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -305,7 +324,8 @@
                     "owner": "snakemake",
                     "repo": "snakedeploy",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -320,7 +340,8 @@
                     "owner": "urlstechie",
                     "repo": "urlchecker-python",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -335,7 +356,8 @@
                     "owner": "con",
                     "repo": "tributors",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -350,7 +372,8 @@
                     "owner": "vsoch",
                     "repo": "citelang",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -365,7 +388,8 @@
                     "owner": "stefmolin",
                     "repo": "docstringify",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -380,7 +404,8 @@
                     "owner": "cosimameyer",
                     "repo": "overviewpy",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 },
                 {
                   "node_type": "item",
@@ -395,7 +420,8 @@
                     "owner": "emilyriederer",
                     "repo": "roctet",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
                 }
               ],
               "description": null,
@@ -412,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:10.090Z",
+    "last_updated": "2026-08-28T04:20:58.099Z",
     "original_repository_info": {
       "archived": false,
       "id": 620504974,
