@@ -83,7 +83,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 #### Python Libraries
 
 * [kedro](https://github.com/kedro-org/kedro) ⭐ 10,975 | 🐛 143 | 🌐 Python | 📅 2026-08-28 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,278 | 🐛 123 | 🌐 Python | 📅 2026-08-24 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,280 | 🐛 123 | 🌐 Python | 📅 2026-08-24 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,552 | 🐛 71 | 🌐 Python | 📅 2026-08-18 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 864 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 419 | 🐛 21 | 🌐 Python | 📅 2026-06-03 by Mariatta Wijaya, Brett Cannon
@@ -100,12 +100,12 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-08-02 by Katie McLaughlin
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
 * [exif-stripper](https://github.com/stefmolin/exif-stripper) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-07-06 by Stefanie Molin
-* [axe-playwright-python](https://github.com/pamelafox/axe-playwright-python) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2026-07-24 by Pamela Fox
+* [axe-playwright-python](https://github.com/pamelafox/axe-playwright-python) ⭐ 30 | 🐛 3 | 🌐 Python | 📅 2026-08-29 by Pamela Fox
 * [snakedeploy](https://github.com/snakemake/snakedeploy) ⭐ 27 | 🐛 20 | 🌐 Python | 📅 2026-06-18 by Vanessa Sochat, johanneskoester
 * [urlchecker](https://github.com/urlstechie/urlchecker-python) ⭐ 21 | 🐛 17 | 🌐 Python | 📅 2024-10-10 by Vanessa Sochat, SuperKogito
 * [tributors](https://github.com/con/tributors) ⭐ 14 | 🐛 19 | 🌐 Python | 📅 2026-05-19 by Vanessa Sochat, yarikoptic
 * [CiteLang](https://github.com/vsoch/citelang) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2025-01-20 by Vanessa Sochat
-* [Docstringify](https://github.com/stefmolin/docstringify) ⭐ 9 | 🐛 13 | 🌐 Python | 📅 2026-07-06 by Stefanie Molin
+* [Docstringify](https://github.com/stefmolin/docstringify) ⭐ 10 | 🐛 13 | 🌐 Python | 📅 2026-07-06 by Stefanie Molin
 * [overviewpy](https://github.com/cosimameyer/overviewpy) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-07-11 by Cosima Meyer
 * [roctet](https://github.com/emilyriederer/roctet) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-28 by Emily Riederer
 
