@@ -14,12 +14,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+                    "homepage": "https://kedro.org",
                     "id": 182067506,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T23:26:40Z",
+                    "open_issues": 143,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10975
+                    "stars": 10975,
+                    "topics": [
+                      "agentic-ai",
+                      "agentic-workflow",
+                      "data-pipelines",
+                      "hacktoberfest",
+                      "kedro",
+                      "machine-learning",
+                      "machine-learning-engineering",
+                      "mlops",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -30,12 +45,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python package to assess and improve fairness of machine learning models.",
+                    "homepage": "https://fairlearn.org",
                     "id": 133444044,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T17:23:49Z",
+                    "open_issues": 123,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2278
+                    "stars": 2278,
+                    "topics": [
+                      "ai",
+                      "ai-systems",
+                      "artificial-intelligence",
+                      "fairness",
+                      "fairness-ai",
+                      "fairness-assessment",
+                      "fairness-ml",
+                      "group-fairness",
+                      "harms",
+                      "machine-learning",
+                      "responsible-ai",
+                      "unfairness-mitigation"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -46,12 +79,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flexible test automation for Python",
+                    "homepage": "https://nox.thea.codes",
                     "id": 52413187,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-18T03:09:11Z",
+                    "open_issues": 71,
                     "owner": "wntrblm",
                     "repo": "nox",
-                    "stars": 1552
+                    "stars": 1552,
+                    "topics": [
+                      "automation",
+                      "python",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -62,12 +104,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reproducible watchers for research",
+                    "homepage": "https://vsoch.github.io/watchme/",
                     "id": 177837425,
                     "language": "HTML",
+                    "license": "MPL-2.0",
                     "last_commit": "2022-08-05T23:11:32Z",
+                    "open_issues": 7,
                     "owner": "vsoch",
                     "repo": "watchme",
-                    "stars": 864
+                    "stars": 864,
+                    "topics": [
+                      "changes",
+                      "cron",
+                      "reproducible",
+                      "watcher",
+                      "website"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -78,12 +131,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An async GitHub API library for Python",
+                    "homepage": "https://gidgethub.readthedocs.io",
                     "id": 79673050,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-03T19:04:56Z",
+                    "open_issues": 21,
                     "owner": "gidgethub",
                     "repo": "gidgethub",
-                    "stars": 419
+                    "stars": 419,
+                    "topics": [
+                      "aiohttp",
+                      "async",
+                      "github",
+                      "httpx",
+                      "python",
+                      "sans-io",
+                      "tornado",
+                      "treq",
+                      "twisted"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -94,12 +162,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "best effort anonymization for medical images using python",
+                    "homepage": "https://pydicom.github.io/deid/",
                     "id": 94163984,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-12T16:52:16Z",
+                    "open_issues": 25,
                     "owner": "pydicom",
                     "repo": "deid",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": [
+                      "anonymize",
+                      "deidentify",
+                      "dicom",
+                      "medical",
+                      "medical-images",
+                      "pydicom"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -110,12 +190,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "open a pull request when a branch is pushed or updated",
+                    "homepage": "https://github.com/marketplace/actions/pull-request-action",
                     "id": 168611951,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-23T22:09:37Z",
+                    "open_issues": 0,
                     "owner": "vsoch",
                     "repo": "pull-request-action",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": [
+                      "branches",
+                      "github-action",
+                      "github-actions",
+                      "hacktoberfest",
+                      "pull-request"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -126,12 +217,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Local filesystem registry for containers (intended for HPC) using Lmod or Environment Modules. Works for users and admins.",
+                    "homepage": "https://singularity-hpc.readthedocs.io",
                     "id": 354130612,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2025-12-13T00:37:11Z",
+                    "open_issues": 35,
                     "owner": "singularityhub",
                     "repo": "singularity-hpc",
-                    "stars": 134
+                    "stars": 134,
+                    "topics": [
+                      "containers",
+                      "hpc",
+                      "lmod",
+                      "reproducibility",
+                      "singularity"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -142,12 +244,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Morph an input dataset of 2D points into select shapes, while preserving the summary statistics to a given number of decimal points through simulated annealing. It is intended to be used as a teaching tool to illustrate the importance of data visualization.",
+                    "homepage": "https://stefaniemolin.com/data-morph/",
                     "id": 597895841,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-18T18:34:50Z",
+                    "open_issues": 12,
                     "owner": "stefmolin",
                     "repo": "data-morph",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "animation",
+                      "python",
+                      "simulated-annealing",
+                      "summary-statistics",
+                      "summary-stats"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -158,12 +271,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🧶 A very persuasive package, for creating embroidery patterns.",
+                    "homepage": "https://pypi.org/project/ih/",
                     "id": 174641582,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-03-14T10:37:16Z",
+                    "open_issues": 1,
                     "owner": "glasnt",
                     "repo": "ih",
-                    "stars": 113
+                    "stars": 113,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -174,12 +292,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HTTP security headers for Flask",
+                    "homepage": null,
                     "id": 374362664,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-17T09:20:40Z",
+                    "open_issues": 6,
                     "owner": "wntrblm",
                     "repo": "flask-talisman",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -190,12 +313,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "orchestration for singularity containers (under development)",
+                    "homepage": "https://singularityhub.github.io/singularity-compose",
                     "id": 188852712,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2024-05-11T19:06:56Z",
+                    "open_issues": 11,
                     "owner": "singularityhub",
                     "repo": "singularity-compose",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "container-orchestration",
+                      "singularity",
+                      "singularity-compose"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -206,12 +338,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ascii database of pokemon... in python!",
+                    "homepage": null,
                     "id": 64061017,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-17T04:06:00Z",
+                    "open_issues": 3,
                     "owner": "vsoch",
                     "repo": "pokemon",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": [
+                      "avatar",
+                      "fun",
+                      "pokemon",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -222,12 +364,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ORAS Python SDK",
+                    "homepage": "https://oras-project.github.io/oras-py/",
                     "id": 362552641,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T17:05:51Z",
+                    "open_issues": 56,
                     "owner": "oras-project",
                     "repo": "oras-py",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "oci",
+                      "oci-registry-as-storage",
+                      "oras",
+                      "packages",
+                      "registry"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -238,12 +391,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "streamlined singularity python client (spython) for singularity",
+                    "homepage": "https://singularityhub.github.io/singularity-cli/",
                     "id": 120543174,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-03-12T19:55:24Z",
+                    "open_issues": 1,
                     "owner": "singularityhub",
                     "repo": "singularity-cli",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "cli",
+                      "client",
+                      "containers",
+                      "hacktoberfest",
+                      "singularity",
+                      "singularity-python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -254,12 +419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🙃 Turn text with emoji into text with accessible emoji",
+                    "homepage": null,
                     "id": 65078838,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-02T00:29:00Z",
+                    "open_issues": 2,
                     "owner": "glasnt",
                     "repo": "emojificate",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -270,12 +440,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "software to generate a reproducible container with a battery of experiments",
+                    "homepage": "https://expfactory.github.io/",
                     "id": 108672186,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-04-13T17:50:22Z",
+                    "open_issues": 28,
                     "owner": "expfactory",
                     "repo": "expfactory",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "battery",
+                      "container",
+                      "experiment-factory",
+                      "experiments",
+                      "expfactory",
+                      "psychology",
+                      "reproducible",
+                      "singularity"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -286,12 +470,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An easy-to-use tool to ensure image metadata (EXIF) is removed.",
+                    "homepage": "https://pypi.org/project/exif-stripper/",
                     "id": 743761205,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-06T22:26:36Z",
+                    "open_issues": 4,
                     "owner": "stefmolin",
                     "repo": "exif-stripper",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "exif",
+                      "exif-metadata",
+                      "metadata-remover",
+                      "pre-commit-hook"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -302,12 +496,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated web accessibility testing with axe-core",
+                    "homepage": "https://pamelafox.github.io/axe-playwright-python/",
                     "id": 622978853,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-24T14:47:40Z",
+                    "open_issues": 1,
                     "owner": "pamelafox",
                     "repo": "axe-playwright-python",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "a11y",
+                      "accessibility",
+                      "playwright"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -318,12 +521,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "deploy a snakemake pipeline directly from version control (under development)",
+                    "homepage": "https://snakedeploy.readthedocs.io",
                     "id": 312048858,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-06-18T08:51:27Z",
+                    "open_issues": 20,
                     "owner": "snakemake",
                     "repo": "snakedeploy",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "reproducibility",
+                      "snakemake"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -334,12 +545,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":snake: :link: Python module and client for checking URLs",
+                    "homepage": "https://urlchecker-python.readthedocs.io",
                     "id": 248832251,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-10T10:42:02Z",
+                    "open_issues": 17,
                     "owner": "urlstechie",
                     "repo": "urlchecker-python",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": [
+                      "hacktoberfest",
+                      "python",
+                      "url-check",
+                      "url-checker",
+                      "urlchecker"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -350,12 +572,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pay tribute to your contributors! A tool to automatically update contributor files.",
+                    "homepage": "https://con.github.io/tributors/",
                     "id": 275440041,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-19T18:13:13Z",
+                    "open_issues": 19,
                     "owner": "con",
                     "repo": "tributors",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "allcontributors",
+                      "contributors",
+                      "zenodo"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -366,12 +597,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "markdown syntax and credit system for software!",
+                    "homepage": "https://vsoch.github.io/citelang/getting_started/user-guide.html",
                     "id": 469517560,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2025-01-20T21:22:53Z",
+                    "open_issues": 3,
                     "owner": "vsoch",
                     "repo": "citelang",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "citation",
+                      "credit",
+                      "doi",
+                      "publication",
+                      "research-software-engineering",
+                      "rseng"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -382,12 +625,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flag missing docstrings and, optionally, generate them from signatures and type annotations.",
+                    "homepage": "https://pypi.org/project/docstringify/",
                     "id": 957738808,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-06T22:26:25Z",
+                    "open_issues": 13,
                     "owner": "stefmolin",
                     "repo": "docstringify",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "abstract-syntax-tree",
+                      "ast",
+                      "docstring",
+                      "docstring-generator",
+                      "google-docstring",
+                      "numpydoc",
+                      "pre-commit",
+                      "pre-commit-hook",
+                      "stubs"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -398,12 +656,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💡 Easily Extracting Information About Your Data in Python",
+                    "homepage": "https://cosimameyer.github.io/overviewpy",
                     "id": 667978559,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-11T00:58:52Z",
+                    "open_issues": 1,
                     "owner": "cosimameyer",
                     "repo": "overviewpy",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "package-development",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -414,12 +680,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Anscombe's Quartet for AUROC -- generate multiple score/target pairs with the same AUROC score but different ROC shapes and model evaluation metrics",
+                    "homepage": "https://emilyriederer.github.io/roctet/",
                     "id": 1176360978,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-28T02:39:52Z",
+                    "open_issues": 0,
                     "owner": "emilyriederer",
                     "repo": "roctet",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 }
@@ -438,15 +709,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:47:23.016Z",
+    "last_updated": "2026-08-29T05:05:50.765Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👩‍💻 Repository with Awesome PyLadies' content",
+      "homepage": null,
       "id": 620504974,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-07-22T15:16:47Z",
+      "open_issues": 207,
       "owner": "cosimameyer",
       "repo": "awesome-pyladies-creations",
-      "stars": 59
+      "stars": 59,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blogs",
+        "diversity",
+        "python",
+        "videos"
+      ]
     },
     "original_repository_sha": "db3cc1f78ced4d6f40d6f23d266a367a55a4190b",
     "enhanced_repository": "enhansome/enhansome-pyladies-creations",
