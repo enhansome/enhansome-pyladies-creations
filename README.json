@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 182067506,
                     "language": "Python",
-                    "last_commit": "2026-08-27T13:05:56Z",
+                    "last_commit": "2026-08-28T23:26:40Z",
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10974
+                    "stars": 10975
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -291,7 +291,7 @@
                     "last_commit": "2026-07-06T22:26:36Z",
                     "owner": "stefmolin",
                     "repo": "exif-stripper",
-                    "stars": 35
+                    "stars": 36
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:20:58.099Z",
+    "last_updated": "2026-08-29T02:47:23.016Z",
     "original_repository_info": {
       "archived": false,
       "id": 620504974,
