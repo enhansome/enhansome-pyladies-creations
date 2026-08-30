@@ -23,7 +23,7 @@
                     "open_issues": 143,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10975,
+                    "stars": 10980,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -51,10 +51,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-24T17:23:49Z",
-                    "open_issues": 123,
+                    "open_issues": 124,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2280,
+                    "stars": 2281,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:37:15.773Z",
+    "last_updated": "2026-08-30T22:41:29.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
