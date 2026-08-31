@@ -19,11 +19,11 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-28T23:26:40Z",
-                    "open_issues": 143,
+                    "last_commit": "2026-08-31T22:06:12Z",
+                    "open_issues": 141,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10980,
+                    "stars": 10986,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -51,7 +51,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-24T17:23:49Z",
-                    "open_issues": 124,
+                    "open_issues": 125,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
                     "stars": 2281,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:41:29.791Z",
+    "last_updated": "2026-08-31T23:46:16.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
