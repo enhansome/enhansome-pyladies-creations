@@ -19,11 +19,11 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-10T17:15:24Z",
+                    "last_commit": "2026-09-11T13:04:48Z",
                     "open_issues": 138,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10989,
+                    "stars": 10994,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -85,7 +85,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-03T04:49:00Z",
-                    "open_issues": 78,
+                    "open_issues": 79,
                     "owner": "wntrblm",
                     "repo": "nox",
                     "stars": 1557,
@@ -136,8 +136,8 @@
                     "id": 79673050,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-09T21:37:56Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-09-11T21:31:31Z",
+                    "open_issues": 12,
                     "owner": "gidgethub",
                     "repo": "gidgethub",
                     "stars": 419,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:29:45.975Z",
+    "last_updated": "2026-09-11T22:29:52.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
