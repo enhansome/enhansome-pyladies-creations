@@ -23,7 +23,7 @@
                     "open_issues": 137,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10994,
+                    "stars": 10995,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -54,7 +54,7 @@
                     "open_issues": 127,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2286,
+                    "stars": 2285,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -88,7 +88,7 @@
                     "open_issues": 76,
                     "owner": "wntrblm",
                     "repo": "nox",
-                    "stars": 1557,
+                    "stars": 1559,
                     "topics": [
                       "automation",
                       "python",
@@ -136,7 +136,7 @@
                     "id": 79673050,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T21:24:09Z",
+                    "last_commit": "2026-09-12T23:40:30Z",
                     "open_issues": 3,
                     "owner": "gidgethub",
                     "repo": "gidgethub",
@@ -400,7 +400,7 @@
                     "open_issues": 1,
                     "owner": "singularityhub",
                     "repo": "singularity-cli",
-                    "stars": 67,
+                    "stars": 68,
                     "topics": [
                       "cli",
                       "client",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:12:07.725Z",
+    "last_updated": "2026-09-13T22:21:28.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
