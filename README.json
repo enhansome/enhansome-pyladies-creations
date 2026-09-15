@@ -19,11 +19,11 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T13:04:48Z",
-                    "open_issues": 137,
+                    "last_commit": "2026-09-15T21:38:08Z",
+                    "open_issues": 133,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 10996,
+                    "stars": 11001,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -50,8 +50,8 @@
                     "id": 133444044,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T21:10:45Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-09-15T19:07:08Z",
+                    "open_issues": 123,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
                     "stars": 2285,
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "gidgethub",
                     "repo": "gidgethub",
-                    "stars": 419,
+                    "stars": 421,
                     "topics": [
                       "aiohttp",
                       "async",
@@ -370,7 +370,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T17:05:51Z",
-                    "open_issues": 56,
+                    "open_issues": 58,
                     "owner": "oras-project",
                     "repo": "oras-py",
                     "stars": 68,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:05:14.569Z",
+    "last_updated": "2026-09-15T22:51:36.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
