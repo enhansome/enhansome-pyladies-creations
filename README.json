@@ -85,7 +85,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-19T19:16:39Z",
-                    "open_issues": 78,
+                    "open_issues": 79,
                     "owner": "wntrblm",
                     "repo": "nox",
                     "stars": 1560,
@@ -199,7 +199,7 @@
                     "open_issues": 0,
                     "owner": "vsoch",
                     "repo": "pull-request-action",
-                    "stars": 174,
+                    "stars": 175,
                     "topics": [
                       "branches",
                       "github-action",
@@ -276,8 +276,8 @@
                     "id": 174641582,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2021-03-14T10:37:16Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-09-20T04:10:06Z",
+                    "open_issues": 2,
                     "owner": "glasnt",
                     "repo": "ih",
                     "stars": 113,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:18:29.998Z",
+    "last_updated": "2026-09-20T22:22:47.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
