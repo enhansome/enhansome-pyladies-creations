@@ -23,7 +23,7 @@
                     "open_issues": 143,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11008,
+                    "stars": 11007,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -85,7 +85,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-22T21:40:54Z",
-                    "open_issues": 72,
+                    "open_issues": 73,
                     "owner": "wntrblm",
                     "repo": "nox",
                     "stars": 1560,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:16:06.877Z",
+    "last_updated": "2026-09-26T22:42:08.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
