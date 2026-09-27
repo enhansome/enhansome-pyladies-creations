@@ -23,7 +23,7 @@
                     "open_issues": 143,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11007,
+                    "stars": 11010,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -51,7 +51,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T20:56:33Z",
-                    "open_issues": 125,
+                    "open_issues": 126,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
                     "stars": 2287,
@@ -249,8 +249,8 @@
                     "id": 597895841,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-18T18:34:50Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-09-27T19:28:07Z",
+                    "open_issues": 10,
                     "owner": "stefmolin",
                     "repo": "data-morph",
                     "stars": 131,
@@ -475,8 +475,8 @@
                     "id": 743761205,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-06T22:26:36Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-27T21:56:52Z",
+                    "open_issues": 3,
                     "owner": "stefmolin",
                     "repo": "exif-stripper",
                     "stars": 36,
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:42:08.918Z",
+    "last_updated": "2026-09-27T22:58:15.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
