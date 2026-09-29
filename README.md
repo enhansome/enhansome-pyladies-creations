@@ -82,9 +82,9 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,012 | 🐛 140 | 🌐 Python | 📅 2026-09-28 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,287 | 🐛 126 | 🌐 Python | 📅 2026-09-21 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
-* [nox](https://github.com/wntrblm/nox) ⭐ 1,560 | 🐛 74 | 🌐 Python | 📅 2026-09-28 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,014 | 🐛 140 | 🌐 Python | 📅 2026-09-29 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,287 | 🐛 128 | 🌐 Python | 📅 2026-09-21 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [nox](https://github.com/wntrblm/nox) ⭐ 1,561 | 🐛 72 | 🌐 Python | 📅 2026-09-29 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 863 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 422 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 178 | 🐛 26 | 🌐 Python | 📅 2026-01-12 by Vanessa Sochat
@@ -95,7 +95,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [flask-talisman](https://github.com/wntrblm/flask-talisman) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2024-04-17 by Thea Flowers, jonakemon, Jannis Leidel
 * [singularity-compose](https://github.com/singularityhub/singularity-compose) ⭐ 79 | 🐛 11 | 🌐 Python | 📅 2024-05-11 by Vanessa Sochat
 * [pokemon](https://github.com/vsoch/pokemon) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
-* [oras](https://github.com/oras-project/oras-py) ⭐ 68 | 🐛 65 | 🌐 Python | 📅 2026-09-24 by Vanessa Sochat
+* [oras](https://github.com/oras-project/oras-py) ⭐ 68 | 🐛 63 | 🌐 Python | 📅 2026-09-29 by Vanessa Sochat
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-09-02 by Katie McLaughlin
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
