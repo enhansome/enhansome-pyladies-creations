@@ -19,11 +19,11 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-30T13:56:31Z",
-                    "open_issues": 138,
+                    "last_commit": "2026-10-01T13:04:19Z",
+                    "open_issues": 140,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11014,
+                    "stars": 11013,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -50,11 +50,11 @@
                     "id": 133444044,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T18:38:39Z",
-                    "open_issues": 126,
+                    "last_commit": "2026-10-01T13:31:12Z",
+                    "open_issues": 125,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2287,
+                    "stars": 2289,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -84,11 +84,11 @@
                     "id": 52413187,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T14:54:01Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-10-01T10:58:43Z",
+                    "open_issues": 76,
                     "owner": "wntrblm",
                     "repo": "nox",
-                    "stars": 1561,
+                    "stars": 1562,
                     "topics": [
                       "automation",
                       "python",
@@ -249,7 +249,7 @@
                     "id": 597895841,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T19:28:07Z",
+                    "last_commit": "2026-10-01T11:35:27Z",
                     "open_issues": 10,
                     "owner": "stefmolin",
                     "repo": "data-morph",
@@ -280,7 +280,7 @@
                     "open_issues": 2,
                     "owner": "glasnt",
                     "repo": "ih",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
@@ -530,7 +530,7 @@
                     "open_issues": 18,
                     "owner": "snakemake",
                     "repo": "snakedeploy",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": [
                       "reproducibility",
                       "snakemake"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:41:54.910Z",
+    "last_updated": "2026-10-01T23:51:17.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
