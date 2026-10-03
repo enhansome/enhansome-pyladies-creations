@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T16:46:52Z",
-                    "open_issues": 135,
+                    "open_issues": 136,
                     "owner": "kedro-org",
                     "repo": "kedro",
                     "stars": 11012,
@@ -249,7 +249,7 @@
                     "id": 597895841,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T11:35:27Z",
+                    "last_commit": "2026-10-03T16:33:07Z",
                     "open_issues": 10,
                     "owner": "stefmolin",
                     "repo": "data-morph",
@@ -333,6 +333,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "oras",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ORAS Python SDK",
+                    "homepage": "https://oras-project.github.io/oras-py/",
+                    "id": 362552641,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-02T16:13:24Z",
+                    "open_issues": 61,
+                    "owner": "oras-project",
+                    "repo": "oras-py",
+                    "stars": 69,
+                    "topics": [
+                      "oci",
+                      "oci-registry-as-storage",
+                      "oras",
+                      "packages",
+                      "registry"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "pokemon",
                   "description": "by Vanessa Sochat",
                   "children": [],
@@ -353,33 +380,6 @@
                       "fun",
                       "pokemon",
                       "python"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T04:20:58.099Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "oras",
-                  "description": "by Vanessa Sochat",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "ORAS Python SDK",
-                    "homepage": "https://oras-project.github.io/oras-py/",
-                    "id": 362552641,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T16:13:24Z",
-                    "open_issues": 61,
-                    "owner": "oras-project",
-                    "repo": "oras-py",
-                    "stars": 68,
-                    "topics": [
-                      "oci",
-                      "oci-registry-as-storage",
-                      "oras",
-                      "packages",
-                      "registry"
                     ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:20.224Z",
+    "last_updated": "2026-10-03T22:50:22.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",

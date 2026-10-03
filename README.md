@@ -82,7 +82,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,012 | 🐛 135 | 🌐 Python | 📅 2026-10-02 by Merel Theisen, Yetunde Dada
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,012 | 🐛 136 | 🌐 Python | 📅 2026-10-02 by Merel Theisen, Yetunde Dada
 * [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,289 | 🐛 125 | 🌐 Python | 📅 2026-10-01 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 75 | 🌐 Python | 📅 2026-10-03 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 863 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
@@ -90,12 +90,12 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [deid](https://github.com/pydicom/deid) ⭐ 178 | 🐛 26 | 🌐 Python | 📅 2026-01-12 by Vanessa Sochat
 * [pull-request-action](https://github.com/vsoch/pull-request-action) ⭐ 175 | 🐛 0 | 🌐 Python | 📅 2025-04-23 by Vanessa Sochat
 * [singularity-hpc](https://github.com/singularityhub/singularity-hpc) ⭐ 134 | 🐛 35 | 🌐 Python | 📅 2025-12-13 by Vanessa Sochat
-* [Data Morph: Teaching the Importance of Data Visualization Through Dataset Transformation](https://github.com/stefmolin/data-morph) ⭐ 131 | 🐛 10 | 🌐 Python | 📅 2026-10-01 by Stefanie Molin
+* [Data Morph: Teaching the Importance of Data Visualization Through Dataset Transformation](https://github.com/stefmolin/data-morph) ⭐ 131 | 🐛 10 | 🌐 Python | 📅 2026-10-03 by Stefanie Molin
 * [ih](https://github.com/glasnt/ih) ⭐ 114 | 🐛 2 | 🌐 Python | 📅 2026-09-20 by Katie McLaughlin
 * [flask-talisman](https://github.com/wntrblm/flask-talisman) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2024-04-17 by Thea Flowers, jonakemon, Jannis Leidel
 * [singularity-compose](https://github.com/singularityhub/singularity-compose) ⭐ 79 | 🐛 11 | 🌐 Python | 📅 2024-05-11 by Vanessa Sochat
+* [oras](https://github.com/oras-project/oras-py) ⭐ 69 | 🐛 61 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
 * [pokemon](https://github.com/vsoch/pokemon) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
-* [oras](https://github.com/oras-project/oras-py) ⭐ 68 | 🐛 61 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-10-02 by Katie McLaughlin
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
