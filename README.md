@@ -84,7 +84,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 * [kedro](https://github.com/kedro-org/kedro) ⭐ 11,012 | 🐛 135 | 🌐 Python | 📅 2026-10-02 by Merel Theisen, Yetunde Dada
 * [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,289 | 🐛 125 | 🌐 Python | 📅 2026-10-01 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
-* [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 77 | 🌐 Python | 📅 2026-10-02 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
+* [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 75 | 🌐 Python | 📅 2026-10-03 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 863 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 422 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 178 | 🐛 26 | 🌐 Python | 📅 2026-01-12 by Vanessa Sochat
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
