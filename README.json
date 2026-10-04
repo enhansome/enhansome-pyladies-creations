@@ -23,7 +23,7 @@
                     "open_issues": 136,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11012,
+                    "stars": 11013,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -347,7 +347,7 @@
                     "open_issues": 61,
                     "owner": "oras-project",
                     "repo": "oras-py",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": [
                       "oci",
                       "oci-registry-as-storage",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:50:22.036Z",
+    "last_updated": "2026-10-04T23:01:05.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",

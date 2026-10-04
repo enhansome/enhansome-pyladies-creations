@@ -82,7 +82,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,012 | 🐛 136 | 🌐 Python | 📅 2026-10-02 by Merel Theisen, Yetunde Dada
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,013 | 🐛 136 | 🌐 Python | 📅 2026-10-02 by Merel Theisen, Yetunde Dada
 * [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,289 | 🐛 125 | 🌐 Python | 📅 2026-10-01 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 75 | 🌐 Python | 📅 2026-10-03 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 863 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
@@ -94,7 +94,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [ih](https://github.com/glasnt/ih) ⭐ 114 | 🐛 2 | 🌐 Python | 📅 2026-09-20 by Katie McLaughlin
 * [flask-talisman](https://github.com/wntrblm/flask-talisman) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2024-04-17 by Thea Flowers, jonakemon, Jannis Leidel
 * [singularity-compose](https://github.com/singularityhub/singularity-compose) ⭐ 79 | 🐛 11 | 🌐 Python | 📅 2024-05-11 by Vanessa Sochat
-* [oras](https://github.com/oras-project/oras-py) ⭐ 69 | 🐛 61 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
+* [oras](https://github.com/oras-project/oras-py) ⭐ 70 | 🐛 61 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
 * [pokemon](https://github.com/vsoch/pokemon) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2026-10-02 by Katie McLaughlin
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
