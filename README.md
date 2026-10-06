@@ -82,9 +82,9 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,015 | 🐛 132 | 🌐 Python | 📅 2026-10-06 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,289 | 🐛 129 | 🌐 Python | 📅 2026-10-01 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
-* [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 76 | 🌐 Python | 📅 2026-10-03 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,016 | 🐛 132 | 🌐 Python | 📅 2026-10-06 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,289 | 🐛 131 | 🌐 Python | 📅 2026-10-06 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 77 | 🌐 Python | 📅 2026-10-03 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 863 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 422 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 178 | 🐛 26 | 🌐 Python | 📅 2026-01-12 by Vanessa Sochat
