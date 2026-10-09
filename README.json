@@ -19,11 +19,11 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-08T15:39:46Z",
-                    "open_issues": 131,
+                    "last_commit": "2026-10-09T10:07:35Z",
+                    "open_issues": 129,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11015,
+                    "stars": 11017,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -50,7 +50,7 @@
                     "id": 133444044,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T09:37:48Z",
+                    "last_commit": "2026-10-09T18:11:58Z",
                     "open_issues": 132,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
@@ -479,7 +479,7 @@
                     "open_issues": 4,
                     "owner": "stefmolin",
                     "repo": "exif-stripper",
-                    "stars": 36,
+                    "stars": 37,
                     "topics": [
                       "exif",
                       "exif-metadata",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:16:23.929Z",
+    "last_updated": "2026-10-09T23:58:49.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
