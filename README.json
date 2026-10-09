@@ -19,8 +19,8 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-07T16:13:09Z",
-                    "open_issues": 133,
+                    "last_commit": "2026-10-08T15:39:46Z",
+                    "open_issues": 131,
                     "owner": "kedro-org",
                     "repo": "kedro",
                     "stars": 11015,
@@ -51,10 +51,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-07T09:37:48Z",
-                    "open_issues": 129,
+                    "open_issues": 132,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2289,
+                    "stars": 2290,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -171,7 +171,7 @@
                     "open_issues": 26,
                     "owner": "pydicom",
                     "repo": "deid",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": [
                       "anonymize",
                       "deidentify",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:08:16.758Z",
+    "last_updated": "2026-10-09T00:16:23.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
