@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-09T10:07:35Z",
-                    "open_issues": 129,
+                    "open_issues": 130,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11017,
+                    "stars": 11016,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -51,10 +51,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T18:11:58Z",
-                    "open_issues": 132,
+                    "open_issues": 134,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2290,
+                    "stars": 2291,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -322,7 +322,7 @@
                     "open_issues": 11,
                     "owner": "singularityhub",
                     "repo": "singularity-compose",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": [
                       "container-orchestration",
                       "singularity",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:58:49.834Z",
+    "last_updated": "2026-10-10T23:28:26.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
