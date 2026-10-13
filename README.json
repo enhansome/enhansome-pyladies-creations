@@ -19,11 +19,11 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-09T10:07:35Z",
-                    "open_issues": 133,
+                    "last_commit": "2026-10-12T11:17:18Z",
+                    "open_issues": 128,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11016,
+                    "stars": 11018,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -50,11 +50,11 @@
                     "id": 133444044,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T23:56:21Z",
-                    "open_issues": 135,
+                    "last_commit": "2026-10-12T17:40:48Z",
+                    "open_issues": 136,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2291,
+                    "stars": 2292,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -374,7 +374,7 @@
                     "open_issues": 3,
                     "owner": "vsoch",
                     "repo": "pokemon",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": [
                       "avatar",
                       "fun",
@@ -554,7 +554,7 @@
                     "open_issues": 17,
                     "owner": "urlstechie",
                     "repo": "urlchecker-python",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": [
                       "hacktoberfest",
                       "python",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T23:37:15.406Z",
+    "last_updated": "2026-10-13T01:58:30.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
