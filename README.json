@@ -23,7 +23,7 @@
                     "open_issues": 127,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11026,
+                    "stars": 11028,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -50,8 +50,8 @@
                     "id": 133444044,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T20:03:42Z",
-                    "open_issues": 120,
+                    "last_commit": "2026-10-18T19:09:54Z",
+                    "open_issues": 119,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
                     "stars": 2298,
@@ -280,7 +280,7 @@
                     "open_issues": 2,
                     "owner": "glasnt",
                     "repo": "ih",
-                    "stars": 114,
+                    "stars": 115,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
@@ -428,7 +428,7 @@
                     "open_issues": 2,
                     "owner": "glasnt",
                     "repo": "emojificate",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:12:39.054Z",
+    "last_updated": "2026-10-18T22:23:02.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
