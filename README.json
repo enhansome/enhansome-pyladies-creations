@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-28T11:33:36Z",
-                    "open_issues": 123,
+                    "open_issues": 122,
                     "owner": "kedro-org",
                     "repo": "kedro",
-                    "stars": 11036,
+                    "stars": 11037,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -54,7 +54,7 @@
                     "open_issues": 118,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2302,
+                    "stars": 2303,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -113,7 +113,7 @@
                     "open_issues": 7,
                     "owner": "vsoch",
                     "repo": "watchme",
-                    "stars": 863,
+                    "stars": 862,
                     "topics": [
                       "changes",
                       "cron",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:58:33.807Z",
+    "last_updated": "2026-10-29T23:54:14.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
