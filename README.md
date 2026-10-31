@@ -82,9 +82,9 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,038 | 🐛 122 | 🌐 Python | 📅 2026-10-28 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,303 | 🐛 118 | 🌐 Python | 📅 2026-10-24 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
-* [nox](https://github.com/wntrblm/nox) ⭐ 1,561 | 🐛 79 | 🌐 Python | 📅 2026-10-30 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,038 | 🐛 125 | 🌐 Python | 📅 2026-10-31 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,304 | 🐛 118 | 🌐 Python | 📅 2026-10-24 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [nox](https://github.com/wntrblm/nox) ⭐ 1,561 | 🐛 79 | 🌐 Python | 📅 2026-10-31 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 862 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 424 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 182 | 🐛 26 | 🌐 Python | 📅 2026-10-28 by Vanessa Sochat
@@ -94,7 +94,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [ih](https://github.com/glasnt/ih) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2026-09-20 by Katie McLaughlin
 * [flask-talisman](https://github.com/wntrblm/flask-talisman) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2024-04-17 by Thea Flowers, jonakemon, Jannis Leidel
 * [singularity-compose](https://github.com/singularityhub/singularity-compose) ⭐ 80 | 🐛 11 | 🌐 Python | 📅 2024-05-11 by Vanessa Sochat
-* [oras](https://github.com/oras-project/oras-py) ⭐ 71 | 🐛 63 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
+* [oras](https://github.com/oras-project/oras-py) ⭐ 71 | 🐛 64 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
 * [pokemon](https://github.com/vsoch/pokemon) ⭐ 70 | 🐛 3 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-10-02 by Katie McLaughlin
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
