@@ -82,8 +82,8 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,042 | 🐛 124 | 🌐 Python | 📅 2026-11-02 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,306 | 🐛 118 | 🌐 Python | 📅 2026-10-24 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,042 | 🐛 124 | 🌐 Python | 📅 2026-11-03 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,307 | 🐛 118 | 🌐 Python | 📅 2026-10-24 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
 * [nox](https://github.com/wntrblm/nox) ⭐ 1,560 | 🐛 84 | 🌐 Python | 📅 2026-11-01 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 862 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
 * [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 425 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
@@ -100,7 +100,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-11-02 by Katie McLaughlin
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
 * [exif-stripper](https://github.com/stefmolin/exif-stripper) ⭐ 37 | 🐛 3 | 🌐 Python | 📅 2026-10-17 by Stefanie Molin
-* [axe-playwright-python](https://github.com/pamelafox/axe-playwright-python) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-11-02 by Pamela Fox
+* [axe-playwright-python](https://github.com/pamelafox/axe-playwright-python) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2026-11-03 by Pamela Fox
 * [snakedeploy](https://github.com/snakemake/snakedeploy) ⭐ 28 | 🐛 19 | 🌐 Python | 📅 2026-10-28 by Vanessa Sochat, johanneskoester
 * [urlchecker](https://github.com/urlstechie/urlchecker-python) ⭐ 22 | 🐛 17 | 🌐 Python | 📅 2024-10-10 by Vanessa Sochat, SuperKogito
 * [tributors](https://github.com/con/tributors) ⭐ 14 | 🐛 20 | 🌐 Python | 📅 2026-05-19 by Vanessa Sochat, yarikoptic
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
