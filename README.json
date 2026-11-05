@@ -19,8 +19,8 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-03T15:58:12Z",
-                    "open_issues": 124,
+                    "last_commit": "2026-11-04T23:10:58Z",
+                    "open_issues": 125,
                     "owner": "kedro-org",
                     "repo": "kedro",
                     "stars": 11042,
@@ -51,10 +51,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-24T15:47:01Z",
-                    "open_issues": 118,
+                    "open_issues": 119,
                     "owner": "fairlearn",
                     "repo": "fairlearn",
-                    "stars": 2307,
+                    "stars": 2306,
                     "topics": [
                       "ai",
                       "ai-systems",
@@ -84,8 +84,8 @@
                     "id": 52413187,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T10:56:31Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-11-04T20:53:54Z",
+                    "open_issues": 78,
                     "owner": "wntrblm",
                     "repo": "nox",
                     "stars": 1560,
@@ -140,7 +140,7 @@
                     "open_issues": 0,
                     "owner": "gidgethub",
                     "repo": "gidgethub",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "aiohttp",
                       "async",
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:33:54.504Z",
+    "last_updated": "2026-11-05T00:51:13.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
