@@ -19,8 +19,8 @@
                     "id": 182067506,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-04T23:10:58Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-11-05T21:44:06Z",
+                    "open_issues": 121,
                     "owner": "kedro-org",
                     "repo": "kedro",
                     "stars": 11042,
@@ -84,8 +84,8 @@
                     "id": 52413187,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T20:53:54Z",
-                    "open_issues": 78,
+                    "last_commit": "2026-11-05T07:14:51Z",
+                    "open_issues": 77,
                     "owner": "wntrblm",
                     "repo": "nox",
                     "stars": 1560,
@@ -371,7 +371,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-01-17T04:06:00Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "vsoch",
                     "repo": "pokemon",
                     "stars": 70,
@@ -380,34 +380,6 @@
                       "fun",
                       "pokemon",
                       "python"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T04:20:58.099Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "spython",
-                  "description": "by Vanessa Sochat",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "streamlined singularity python client (spython) for singularity",
-                    "homepage": "https://singularityhub.github.io/singularity-cli/",
-                    "id": 120543174,
-                    "language": "Python",
-                    "license": "MPL-2.0",
-                    "last_commit": "2026-03-12T19:55:24Z",
-                    "open_issues": 1,
-                    "owner": "singularityhub",
-                    "repo": "singularity-cli",
-                    "stars": 67,
-                    "topics": [
-                      "cli",
-                      "client",
-                      "containers",
-                      "hacktoberfest",
-                      "singularity",
-                      "singularity-python"
                     ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
@@ -430,6 +402,34 @@
                     "repo": "emojificate",
                     "stars": 66,
                     "topics": []
+                  },
+                  "first_seen": "2026-08-28T04:20:58.099Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "spython",
+                  "description": "by Vanessa Sochat",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "streamlined singularity python client (spython) for singularity",
+                    "homepage": "https://singularityhub.github.io/singularity-cli/",
+                    "id": 120543174,
+                    "language": "Python",
+                    "license": "MPL-2.0",
+                    "last_commit": "2026-03-12T19:55:24Z",
+                    "open_issues": 1,
+                    "owner": "singularityhub",
+                    "repo": "singularity-cli",
+                    "stars": 66,
+                    "topics": [
+                      "cli",
+                      "client",
+                      "containers",
+                      "hacktoberfest",
+                      "singularity",
+                      "singularity-python"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:20:58.099Z"
                 },
@@ -709,7 +709,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:51:13.497Z",
+    "last_updated": "2026-11-06T00:57:06.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "👩‍💻 Repository with Awesome PyLadies' content",
