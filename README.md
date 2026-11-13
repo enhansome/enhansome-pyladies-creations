@@ -82,11 +82,11 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 #### Python Libraries
 
-* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,053 | 🐛 124 | 🌐 Python | 📅 2026-11-10 by Merel Theisen, Yetunde Dada
-* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,306 | 🐛 123 | 🌐 Python | 📅 2026-11-07 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
-* [nox](https://github.com/wntrblm/nox) ⭐ 1,565 | 🐛 81 | 🌐 Python | 📅 2026-11-11 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
+* [kedro](https://github.com/kedro-org/kedro) ⭐ 11,052 | 🐛 124 | 🌐 Python | 📅 2026-11-10 by Merel Theisen, Yetunde Dada
+* [fairlearn](https://github.com/fairlearn/fairlearn) ⭐ 2,307 | 🐛 123 | 🌐 Python | 📅 2026-11-07 by Hilde Weerts, Adrin Jalali, Miroslav Dudík, Roman Lutz, Allie Saizan, Tamara Atanasoska, Richard Edgar, Michael Madaio, Tahar Allouche
+* [nox](https://github.com/wntrblm/nox) ⭐ 1,565 | 🐛 81 | 🌐 Python | 📅 2026-11-12 by Thea Flowers, Danny Hermes, Chris Wilcox, Henry Schreiner, Luke Sneeringer, Diego Ramirez
 * [watchme](https://github.com/vsoch/watchme) ⭐ 862 | 🐛 7 | 🌐 HTML | 📅 2022-08-05 by Vanessa Sochat
-* [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 427 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
+* [gidgethub](https://github.com/gidgethub/gidgethub) ⭐ 428 | 🐛 0 | 🌐 Python | 📅 2026-09-25 by Mariatta Wijaya, Brett Cannon
 * [deid](https://github.com/pydicom/deid) ⭐ 181 | 🐛 29 | 🌐 Python | 📅 2026-11-07 by Vanessa Sochat
 * [pull-request-action](https://github.com/vsoch/pull-request-action) ⭐ 175 | 🐛 0 | 🌐 Python | 📅 2025-04-23 by Vanessa Sochat
 * [singularity-hpc](https://github.com/singularityhub/singularity-hpc) ⭐ 134 | 🐛 35 | 🌐 Python | 📅 2025-12-13 by Vanessa Sochat
@@ -95,7 +95,7 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 * [flask-talisman](https://github.com/wntrblm/flask-talisman) ⭐ 87 | 🐛 6 | 🌐 Python | 📅 2024-04-17 by Thea Flowers, jonakemon, Jannis Leidel
 * [singularity-compose](https://github.com/singularityhub/singularity-compose) ⭐ 80 | 🐛 11 | 🌐 Python | 📅 2024-05-11 by Vanessa Sochat
 * [oras](https://github.com/oras-project/oras-py) ⭐ 72 | 🐛 64 | 🌐 Python | 📅 2026-10-02 by Vanessa Sochat
-* [pokemon](https://github.com/vsoch/pokemon) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
+* [pokemon](https://github.com/vsoch/pokemon) ⭐ 71 | 🐛 3 | 🌐 Python | 📅 2023-01-17 by Vanessa Sochat
 * [emojificate](https://github.com/glasnt/emojificate) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-11-02 by Katie McLaughlin
 * [spython](https://github.com/singularityhub/singularity-cli) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2026-03-12 by Vanessa Sochat
 * [expfactory](https://github.com/expfactory/expfactory) ⭐ 39 | 🐛 28 | 🌐 Python | 📅 2023-04-13 by Vanessa Sochat
@@ -123,4 +123,4 @@ To contribute, please see [contributing](CONTRIBUTING.md) ✨
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
